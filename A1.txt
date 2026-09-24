@@ -1,1 +1,2 @@
-testowy wpis #1
+testowy wpis już nie pierwszy a drugi (#2) a było #1
+wprowadzam zmiany w pliku A1.
